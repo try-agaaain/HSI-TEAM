@@ -100,7 +100,8 @@ a {
     -o-transition: all ease 150ms;
     transition: all ease 150ms;
     text-decoration: none;
-    color: #26abe2;
+    /*color: #26abe2;*/ /*18-10-31*/
+    color: #ffffff;
 }
 
 a:hover {
@@ -260,7 +261,7 @@ nav #menu-toggle {
 
 /* Content Styles */
 section { padding: 1em 0 3em; text-align: center; }
-section.vibrant { background: #222; color: #fff; }
+section.vibrant { background: #135571; color: #fff; }
 
 nav:before, 
 nav:after, 
@@ -337,7 +338,8 @@ input:focus {
 
 
 .docs-nav {
-    background-color: #fffff0;
+    background-color: #26abe2;
+    /*background-color: #fffff1;*/ /*18-10-31*/
     list-style: none;
     margin: 0 0 0 0px;
     padding: 15px 20px;
@@ -378,17 +380,20 @@ input:focus {
     }
 
     .docs-nav a:hover {
-        background: #eee;
+        background: #135571;
+        /*background: #eee;*/  /*18-10-31*/
     }
 
     .docs-nav a:active, 
     .docs-nav .active {
-        background: #eee;
-        border-right: 2px solid #ccc;
+        background: #135571;
+        /*background: #333;*/ /*18-10-31*/
+        border-right: 0px solid #ccc;
+        /*border-right: 2px solid #ccc;*/  /*18-10-31*/
     }
 
     .docs-nav .separator {
-        height: 40px;
+        height: 60px;
     }
 
     .docs-content {
