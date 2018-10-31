@@ -100,17 +100,29 @@ a {
     -o-transition: all ease 150ms;
     transition: all ease 150ms;
     text-decoration: none;
-    /*color: #26abe2;*/ /*18-10-31*/
-    color: #ffffff;
+    color: #26abe2;
+    
 }
+
+
+
 
 a:hover {
     text-decoration: none;
 }
 
+
+
 a:active {
     color: #47b5e2;
 }
+
+
+
+
+
+
+
 
 /* Header Styles */
 header {
@@ -175,6 +187,9 @@ nav a {
     display: block;
 }
 
+
+
+
 nav h1 a {
     padding: 7px 1em;
     height: 46px;
@@ -183,20 +198,43 @@ nav h1 a {
 	line-height: 45px;
 }
 
+
+
+
+
+
+
 nav a:hover {
     background: #195974;
     text-decoration: none;
 }
+
+
+
+
+
+
 
 nav a:active {
     background: #27637e;
 }
 
 
+
+
+
+
+
+
 nav a:active {
     color: #fff;
     cursor: default;
 }
+
+
+
+
+
 
 
 
@@ -228,6 +266,9 @@ nav #menu-toggle {
     nav li, nav a {
         float: left;
     }
+
+
+
 
 
     nav ul.toplinks {
@@ -299,40 +340,10 @@ input {
 
 
 
-
-
-
-
 input:focus {
     border-color: #007eb2;
     outline: 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -353,6 +364,13 @@ input:focus {
     text-decoration: none;
     border-right: 1px solid transparent;
 }
+
+
+
+
+
+
+
 
 @media only screen and (min-width: 120px) {
 
@@ -384,6 +402,13 @@ input:focus {
         /*background: #eee;*/  /*18-10-31*/
     }
 
+
+
+
+
+
+
+
     .docs-nav a:active, 
     .docs-nav .active {
         background: #135571;
@@ -391,6 +416,13 @@ input:focus {
         border-right: 0px solid #ccc;
         /*border-right: 2px solid #ccc;*/  /*18-10-31*/
     }
+
+
+
+
+
+
+
 
     .docs-nav .separator {
         height: 60px;
