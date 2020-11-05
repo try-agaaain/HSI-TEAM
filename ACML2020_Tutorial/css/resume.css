@@ -248,7 +248,12 @@ section.resume-section {
 .text-primary {
   color: #26abe2 !important; }/* 首页 姓 的颜色*/
 
-a {
+/*a {
   color: #1c5c01; }
   a:hover, a:focus, a:active {
-    color: #824027; }
+    color: #824027; }*/
+
+a {
+  }
+  a:hover, a:focus, a:active {
+    }
