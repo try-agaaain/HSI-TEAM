@@ -16,6 +16,8 @@ body {
     padding-left: 13rem;
     padding-right: 2rem; } }
 
+#container {margin:0 auto; max-width: 1800px;}
+
 h1,
 h2,
 h3,
