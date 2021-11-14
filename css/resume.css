@@ -60,10 +60,11 @@ p {
       text-justify: distribute;} }
 
 img {
-  border-radius: 50%;
+  border-radius: 10%;/*头像变椭圆*/
   padding-top: 1rem;
   padding-bottom: 0.5rem;
-  width:150px;
+  margin-left: 1.0rem;
+  width:200px;
   /*height:100%;*/
   /*m-right: 3rem;*/
 }
@@ -90,8 +91,8 @@ aa {
 ab {
   /*padding-left: 22%;*/
 
-  font-size: 1.1rem;
-  color: #000000;
+  font-size: 1.0rem;
+  color: #696969;
   padding-top: 0;
   padding-bottom: 0;
 }
