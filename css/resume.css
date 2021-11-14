@@ -63,7 +63,7 @@ img {
   border-radius: 10%;/*头像变椭圆*/
   padding-top: 1rem;
   padding-bottom: 0.5rem;
-  margin-left: 1.0rem;
+  /*margin-left: 0.5rem;*/
   width:200px;
   /*height:100%;*/
   /*m-right: 3rem;*/
