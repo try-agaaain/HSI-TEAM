@@ -64,7 +64,7 @@ img {
   padding-top: 1rem;
   padding-bottom: 0.5rem;
   /*margin-left: 0.5rem;*/
-  width:200px;
+  width:130px;
   /*height:100%;*/
   /*m-right: 3rem;*/
 }
@@ -118,15 +118,17 @@ lli {
   text-align: center;
   font-size: 1.1rem;
   line-height: 2rem;
-  padding-left: 2rem;
-  padding-right: 7rem;
+/*  margin-left: -3%;
+  margin-right: -3%;*/
+  padding-left: 1%;
+  padding-right: 1%;
 }/* member页分栏用*/
   @media (max-width: 1024px) {
     lli {
       font-size: 1.1rem;
       line-height: 2rem;
-      padding-left: 1.5rem;
-      padding-right: 5rem;} }
+      padding-left: 1%;
+      padding-right: 1%;} }
 
 llli {
   font-size: 1.1rem;
