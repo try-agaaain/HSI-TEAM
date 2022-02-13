@@ -88,7 +88,7 @@ iframe {
   width:300%;
   height:450px;
 }
-  @media (max-width: 992px) {
+  @media (max-width: 1400px) {
     iframe {
       width:100%;
       height:250px; } }
@@ -145,7 +145,7 @@ llli {
   /*padding-left: 2rem;*/
   /*padding-right: 9rem;*/
 }/* access页分栏用*/
-  @media (max-width: 992px) {
+  @media (max-width: 1400px) {
     llli {
       font-size: 0.9rem; } }
 
@@ -162,7 +162,7 @@ lii {
   padding-top: 1rem;
   letter-spacing: 0.01rem;
   font-size: 1.8rem; } /* 首页姓名下介绍 */
-  @media (max-width: 992px) {
+  @media (max-width: 1400px) {
     .subheading {
     font-weight: 400;
     /*letter-spacing: 0.01rem;*/
