@@ -13,8 +13,8 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
-    padding-left: 15rem;
-    padding-right: 2rem; } }
+    padding-left: 10rem;
+    padding-right: 10rem; } }
 
 #container {margin:0 auto; max-width: 1400px;}
 
